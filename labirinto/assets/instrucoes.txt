@@ -1,0 +1,5 @@
+Bem-vindo ao Aventura no Labirinto!
+- Use as teclas W, A, S, D para mover o jogador.
+- Colete os itens (*) para ganhar pontos.
+- Alcance a saída (X) para vencer.
+Boa sorte!
