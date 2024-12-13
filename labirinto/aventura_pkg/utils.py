@@ -1,4 +1,6 @@
-# aventura_pkg/utils.py
+""""
+Contém funções auxiliares.
+"""
 from rich.console import Console
 import os
 

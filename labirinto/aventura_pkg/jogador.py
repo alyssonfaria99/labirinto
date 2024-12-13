@@ -1,3 +1,7 @@
+""""
+Gerencia os processos relacionados à movimentação do jogador no labirinto.
+"""
+
 from rich.console import Console
 
 console = Console()

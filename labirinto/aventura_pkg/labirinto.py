@@ -1,4 +1,6 @@
-# aventura_pkg/labirinto.py
+""""
+Contém funções relacionadas à criação e exibição do labirinto.
+"""
 from random import shuffle, choice
 from rich.console import Console
 from rich.table import Table
